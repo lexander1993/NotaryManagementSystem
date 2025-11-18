@@ -1,0 +1,1 @@
+This desktop application was built using Visual Basic .NET for the backend, DevExpress for the user interface, and SQL Server 2019 for the database. It includes features for tracking service workflows and application processes, processing customer payments, generating detailed profit and revenue reports, and providing real-time insights into overall business performance.
