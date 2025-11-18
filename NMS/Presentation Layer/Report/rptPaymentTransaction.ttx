@@ -1,0 +1,15 @@
+PInID	Number
+POutID	Number
+NoAkta	String	50
+NamaClient	String	500
+PDate	Date
+B	Number
+Remarks	String	500
+IsOther	Boolean
+Type	Number
+PDateOut	Date
+BOut	Number
+Margin	Number
+Untung	Number
+Rugi	Number
+Outstanding	Number

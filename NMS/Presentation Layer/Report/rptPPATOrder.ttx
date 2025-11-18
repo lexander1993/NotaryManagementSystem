@@ -1,0 +1,17 @@
+NoAkta	String	20 
+TglAkta	Date 
+JenisTransaksi	String	100  
+JenisNoHak	String	100 
+LetakTanahBangunan	String	500 
+LuasTanahM2	Number 
+LuasBangunanM2	Number 
+HargaTransaksi	Number 
+SPPTPBBNOPTahun	String	100 
+SPPTPBBNJOP	Number 
+SSPTanggal	Date 
+SSPHarga	Number 
+SSBTanggal	Date 
+SSBHarga	Number 
+Remarks	String	500 
+Nama1	String	500
+Nama2	String	500

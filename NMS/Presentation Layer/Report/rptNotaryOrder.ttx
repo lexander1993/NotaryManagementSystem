@@ -1,0 +1,8 @@
+NoUrut	String	20	
+NoBulanan	String	20
+TglAkta	Date
+SifatAkta	String	200
+Nama1	String	100
+Nama2	String	100		
+Nama3	String	100	
+TglDidaftarkan	Date

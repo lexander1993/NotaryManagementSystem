@@ -1,0 +1,466 @@
+C:\Project\NMS\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\NMS\NMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Project\NMS\NMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Project\NMS\NMS\bin\Debug\NMS.exe
+C:\Project\NMS\NMS\bin\Debug\NMS.pdb
+C:\Project\NMS\NMS\bin\Debug\NMS.xml
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.exe
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.xml
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\NMS\NMS\bin\Debug\NMS.exe.config
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\NMS\NMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Project\NMS\NMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\NMS\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\NMS BERLISENSI\NMS\bin\Debug\NMS.exe.config
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.xml
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Project\NMS BERLISENSI\NMS\bin\Debug\NMS.exe
+C:\Project\NMS BERLISENSI\NMS\bin\Debug\NMS.pdb
+C:\Project\NMS BERLISENSI\NMS\bin\Debug\NMS.xml
+C:\Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\bin\Debug\NMS.exe.config
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\bin\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\bin\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\bin\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\bin\Debug\NMS.exe.config
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\bin\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\bin\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\bin\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\NMS 24 Final\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\bin\Debug\NMS.exe.config
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\bin\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\bin\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\bin\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrintBlank.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysExportImport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysSalinanAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrint.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS BERLISENSI\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe.config
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe.manifest
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.application
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportFileBPN.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrintBlank.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportImport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysSalinanAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrint.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.exe.manifest
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.application
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderVer2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbprojResolveAssemblyReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\1. NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.GenerateResource.Cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe.config
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe.manifest
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.application
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.exe
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.pdb
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\bin\Debug\NMS.xml
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbprojResolveAssemblyReference.cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentIn.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportFileBPN.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrintBlank.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportImport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysSalinanAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrint.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderVer2.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.GenerateResource.Cache
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.exe.manifest
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.application
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentInDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraAllOrder.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentOutDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentOut.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPaymentTransaction.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmRptOutstandingPayment.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserGroupDet.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserGroup.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmToolsClosePeriod.resources
+C:\Project\Backup\20140830 INVENTORY NEW\Backup Lainnya\! NMS File\NMS Current Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotificationPayment.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.AssemblyReference.cache
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.ResolveComReference.cache
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotificationPayment.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserGroupDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserGroup.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmToolsClosePeriod.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentOutDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentOut.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraAllOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentInDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPaymentIn.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrderDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraCertificateOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportFileBPN.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrintBlank.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysCaptureLocation.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysBackupRestore.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysExportImport.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysFileLocation.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysNotification.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClientDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstClient.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUserDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMstUser.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysSalinanAkta.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderPrint.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptOutstandingPayment.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPaymentTransaction.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysPrintAkta.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserChangePassword.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderBPNFinish.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderFalse.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderCompleted.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient3.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient2.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmMain.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysUserLogin.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.Resources.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderClient1.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraNotaryOrderProcess.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient1.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderClient2.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderCompleted.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderDet.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderFalse.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmTraPPATOrderProcess.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderDibukukan.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderSah.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptAdminFee.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptPPATOrder.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmRptNotaryOrderVer2.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.frmSysReport.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.usTextBox.resources
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.GenerateResource.cache
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.exe.licenses
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.CoreCompileInputs.cache
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.exe
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.xml
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.pdb
+C:\Alex VB Project\NMS\NMS\bin\Debug\NMS.exe.config
+C:\Alex VB Project\NMS\NMS\bin\Debug\NMS.exe
+C:\Alex VB Project\NMS\NMS\bin\Debug\NMS.pdb
+C:\Alex VB Project\NMS\NMS\bin\Debug\NMS.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Alex VB Project\NMS\NMS\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Alex VB Project\NMS\NMS\obj\x86\Debug\NMS.vbproj.CopyComplete
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Alex VB Project\NMS\NMS\bin\Debug\stdole.dll

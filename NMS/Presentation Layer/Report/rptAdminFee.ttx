@@ -1,0 +1,15 @@
+UserID	String	30
+OrderID	String	20 
+NoUrut	String	20 
+TglAkta	Date 
+JenisTransaksi	String	100  
+Tipe	String	20
+FileLocation	String	100
+Remarks	String	100
+TglTransaksi	Date
+Nama	String	200
+Fee	Number
+TrueNumber	Number
+FalseNumber	Number
+TrueFee	Number
+FalseFee	Number

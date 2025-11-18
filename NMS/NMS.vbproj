@@ -1,0 +1,1075 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81DF22EA-00DC-4D39-8E31-37980B0D65B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NMS.My.MyApplication</StartupObject>
+    <RootNamespace>NMS</RootNamespace>
+    <AssemblyName>NMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Presentation Layer\Icon\Edit.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>32C857819E1EE68A0234AEF3D360ACE822779387</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>NMS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Copy.Lib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ff152f95942a598f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Copy.Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\CrystalDecisions.Enterprise.Viewing.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CrystalDecisions.ReportSource.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CrystalDecisions.Shared.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Office.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v24.1.Export, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v24.1.Core, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Drawing.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Data.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Data.Desktop.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v24.1, Version=24.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\FlashControlV71.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web">
+      <HintPath>bin\Debug\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Library\Business Layer\Server.vb" />
+    <Compile Include="Library\Data Layer\CertificateOrder.vb" />
+    <Compile Include="Library\Data Layer\AdminFee.vb" />
+    <Compile Include="Library\Data Layer\PaymentOut.vb" />
+    <Compile Include="Library\Data Layer\PaymentIn.vb" />
+    <Compile Include="Library\Data Layer\ExportImport.vb" />
+    <Compile Include="Library\Data Layer\MasterClient.vb" />
+    <Compile Include="Library\Data Layer\MasterUser.vb" />
+    <Compile Include="Library\Data Layer\PPATOrder.vb" />
+    <Compile Include="Library\Data Layer\NotaryOrder.vb" />
+    <Compile Include="Library\Business Layer\UserAccess.vb" />
+    <Compile Include="Library\Data Layer\Report.vb" />
+    <Compile Include="Library\Data Layer\Server.vb" />
+    <Compile Include="Library\Data Layer\SQL.vb" />
+    <Compile Include="Library\Data Layer\UserAccess.vb" />
+    <Compile Include="Library\License Layer\cEncryption.vb" />
+    <Compile Include="Library\License Layer\cHardware.vb" />
+    <Compile Include="Library\SharedLib\Terbilang.vb" />
+    <Compile Include="Library\Value Object\CertificateOrder.vb" />
+    <Compile Include="Library\Value Object\CertificateOrderDet.vb" />
+    <Compile Include="Library\Value Object\PaymentIn.vb" />
+    <Compile Include="Library\Value Object\MasterUser.vb" />
+    <Compile Include="Library\Value Object\PPATClientDet2.vb" />
+    <Compile Include="Library\Value Object\PPATClientDet1.vb" />
+    <Compile Include="Library\Value Object\PPATOrder.vb" />
+    <Compile Include="Library\Value Object\NotaryClientDet3.vb" />
+    <Compile Include="Library\Value Object\NotaryClientDet2.vb" />
+    <Compile Include="Presentation Layer\Form\frmSysNotificationPayment.designer.vb">
+      <DependentUpon>frmSysNotificationPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysNotificationPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserGroupDet.designer.vb">
+      <DependentUpon>frmMstUserGroupDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserGroupDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserGroup.designer.vb">
+      <DependentUpon>frmMstUserGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmToolsClosePeriod.designer.vb">
+      <DependentUpon>frmToolsClosePeriod.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmToolsClosePeriod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentOutDet.designer.vb">
+      <DependentUpon>frmTraPaymentOutDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentOutDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentOut.designer.vb">
+      <DependentUpon>frmTraPaymentOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentOut.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraAllOrder.designer.vb">
+      <DependentUpon>frmTraAllOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraAllOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentInDet.designer.vb">
+      <DependentUpon>frmTraPaymentInDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentInDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentIn.designer.vb">
+      <DependentUpon>frmTraPaymentIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPaymentIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraCertificateOrderDet.designer.vb">
+      <DependentUpon>frmTraCertificateOrderDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraCertificateOrderDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraCertificateOrder.designer.vb">
+      <DependentUpon>frmTraCertificateOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraCertificateOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysExportFileBPN.Designer.vb">
+      <DependentUpon>frmSysExportFileBPN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysExportFileBPN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderPrintBlank.designer.vb">
+      <DependentUpon>frmTraNotaryOrderPrintBlank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderPrintBlank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysCaptureLocation.designer.vb">
+      <DependentUpon>frmSysCaptureLocation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysCaptureLocation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysBackupRestore.designer.vb">
+      <DependentUpon>frmSysBackupRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysBackupRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysExportImport.Designer.vb">
+      <DependentUpon>frmSysExportImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysExportImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysFileLocation.Designer.vb">
+      <DependentUpon>frmSysFileLocation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysFileLocation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysNotification.designer.vb">
+      <DependentUpon>frmSysNotification.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysNotification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstClientDet.designer.vb">
+      <DependentUpon>frmMstClientDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstClientDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstClient.designer.vb">
+      <DependentUpon>frmMstClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserDet.designer.vb">
+      <DependentUpon>frmMstUserDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUserDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUser.designer.vb">
+      <DependentUpon>frmMstUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMstUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysSalinanAkta.Designer.vb">
+      <DependentUpon>frmSysSalinanAkta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysSalinanAkta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderPrint.designer.vb">
+      <DependentUpon>frmTraNotaryOrderPrint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderPrint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptPPATOrderNew.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPPATOrderNew.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptPPATOrderOld.vb">
+      <DependentUpon>rptPPATOrderOld.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptAdminFeeOld.vb">
+      <DependentUpon>rptAdminFeeOld.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptAdminFeeSum.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAdminFeeSum.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptOutstandingPayment.vb">
+      <DependentUpon>rptOutstandingPayment.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptOutstandingPayment.designer.vb">
+      <DependentUpon>frmRptOutstandingPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptOutstandingPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptPaymentTransaction.designer.vb">
+      <DependentUpon>frmRptPaymentTransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptPaymentTransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrder.designer.vb">
+      <DependentUpon>frmRptNotaryOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmSysPrintAkta.Designer.vb">
+      <DependentUpon>frmSysPrintAkta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmSysPrintAkta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysUserChangePassword.designer.vb">
+      <DependentUpon>frmSysUserChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysUserChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderBPNFinish.designer.vb">
+      <DependentUpon>frmTraPPATOrderBPNFinish.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderBPNFinish.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrder.designer.vb">
+      <DependentUpon>frmTraPPATOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderFalse.designer.vb">
+      <DependentUpon>frmTraNotaryOrderFalse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderFalse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderCompleted.designer.vb">
+      <DependentUpon>frmTraNotaryOrderCompleted.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderCompleted.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient3.designer.vb">
+      <DependentUpon>frmTraNotaryOrderClient3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient2.designer.vb">
+      <DependentUpon>frmTraNotaryOrderClient2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMain.designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysUserLogin.designer.vb">
+      <DependentUpon>frmSysUserLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmSysUserLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrder.designer.vb">
+      <DependentUpon>frmTraNotaryOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient1.designer.vb">
+      <DependentUpon>frmTraNotaryOrderClient1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderClient1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderDet.designer.vb">
+      <DependentUpon>frmTraNotaryOrderDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderProcess.designer.vb">
+      <DependentUpon>frmTraNotaryOrderProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraNotaryOrderProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderClient1.designer.vb">
+      <DependentUpon>frmTraPPATOrderClient1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderClient1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderClient2.designer.vb">
+      <DependentUpon>frmTraPPATOrderClient2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderClient2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderCompleted.designer.vb">
+      <DependentUpon>frmTraPPATOrderCompleted.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderCompleted.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderDet.designer.vb">
+      <DependentUpon>frmTraPPATOrderDet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderDet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderFalse.designer.vb">
+      <DependentUpon>frmTraPPATOrderFalse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderFalse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderProcess.designer.vb">
+      <DependentUpon>frmTraPPATOrderProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Form\frmTraPPATOrderProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptNotaryOrderDibukukan.vb">
+      <DependentUpon>rptNotaryOrderDibukukan.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderDibukukan.designer.vb">
+      <DependentUpon>frmRptNotaryOrderDibukukan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderDibukukan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderSah.designer.vb">
+      <DependentUpon>frmRptNotaryOrderSah.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderSah.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptNotaryOrderSah.vb">
+      <DependentUpon>rptNotaryOrderSah.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptAdminFee.designer.vb">
+      <DependentUpon>frmRptAdminFee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptAdminFee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptPPATOrder.designer.vb">
+      <DependentUpon>frmRptPPATOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptPPATOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptAdminFee.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptAdminFee.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderVer2.designer.vb">
+      <DependentUpon>frmRptNotaryOrderVer2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmRptNotaryOrderVer2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmSysReport.Designer.vb">
+      <DependentUpon>frmSysReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\frmSysReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Library\SharedLib\usDefCons.vb" />
+    <Compile Include="Library\SharedLib\usDefGrid.vb" />
+    <Compile Include="Library\SharedLib\usForm.vb" />
+    <Compile Include="Library\SharedLib\usNumeric.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Library\SharedLib\usTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Library\SharedLib\usUserApp.vb" />
+    <Compile Include="Library\SharedLib\usXML.vb" />
+    <Compile Include="Library\Value Object\DefaultServer.vb" />
+    <Compile Include="Library\Value Object\NotaryClientDet1.vb" />
+    <Compile Include="Library\Value Object\NotaryOrder.vb" />
+    <Compile Include="Library\Value Object\Server.vb" />
+    <Compile Include="Library\Value Object\ServerList.vb" />
+    <Compile Include="Library\Value Object\User.vb" />
+    <Compile Include="Presentation Layer\Report\rptNotaryOrder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNotaryOrder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptPaymentTransaction.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPaymentTransaction.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptPPATOrder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPPATOrder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\Report\rptPrintAkta.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPrintAkta.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysNotificationPayment.resx">
+      <DependentUpon>frmSysNotificationPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstUserGroupDet.resx">
+      <DependentUpon>frmMstUserGroupDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstUserGroup.resx">
+      <DependentUpon>frmMstUserGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmToolsClosePeriod.resx">
+      <DependentUpon>frmToolsClosePeriod.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPaymentOutDet.resx">
+      <DependentUpon>frmTraPaymentOutDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPaymentOut.resx">
+      <DependentUpon>frmTraPaymentOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraAllOrder.resx">
+      <DependentUpon>frmTraAllOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPaymentInDet.resx">
+      <DependentUpon>frmTraPaymentInDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPaymentIn.resx">
+      <DependentUpon>frmTraPaymentIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraCertificateOrderDet.resx">
+      <DependentUpon>frmTraCertificateOrderDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraCertificateOrder.resx">
+      <DependentUpon>frmTraCertificateOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysExportFileBPN.resx">
+      <DependentUpon>frmSysExportFileBPN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderPrintBlank.resx">
+      <DependentUpon>frmTraNotaryOrderPrintBlank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysCaptureLocation.resx">
+      <DependentUpon>frmSysCaptureLocation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysBackupRestore.resx">
+      <DependentUpon>frmSysBackupRestore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysExportImport.resx">
+      <DependentUpon>frmSysExportImport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysFileLocation.resx">
+      <DependentUpon>frmSysFileLocation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysNotification.resx">
+      <DependentUpon>frmSysNotification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstClientDet.resx">
+      <DependentUpon>frmMstClientDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstClient.resx">
+      <DependentUpon>frmMstClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstUserDet.resx">
+      <DependentUpon>frmMstUserDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMstUser.resx">
+      <DependentUpon>frmMstUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysSalinanAkta.resx">
+      <DependentUpon>frmSysSalinanAkta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderPrint.resx">
+      <DependentUpon>frmTraNotaryOrderPrint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptPPATOrderNew.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPPATOrderNew.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptPPATOrderOld.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPPATOrderOld.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptAdminFeeOld.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdminFeeOld.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptAdminFeeSum.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdminFeeSum.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptOutstandingPayment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptOutstandingPayment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptOutstandingPayment.resx">
+      <DependentUpon>frmRptOutstandingPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptPaymentTransaction.resx">
+      <DependentUpon>frmRptPaymentTransaction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptNotaryOrder.resx">
+      <DependentUpon>frmRptNotaryOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmSysPrintAkta.resx">
+      <DependentUpon>frmSysPrintAkta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysUserChangePassword.resx">
+      <DependentUpon>frmSysUserChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderBPNFinish.resx">
+      <DependentUpon>frmTraPPATOrderBPNFinish.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrder.resx">
+      <DependentUpon>frmTraPPATOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderFalse.resx">
+      <DependentUpon>frmTraNotaryOrderFalse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderCompleted.resx">
+      <DependentUpon>frmTraNotaryOrderCompleted.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderClient3.resx">
+      <DependentUpon>frmTraNotaryOrderClient3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderClient2.resx">
+      <DependentUpon>frmTraNotaryOrderClient2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmSysUserLogin.resx">
+      <DependentUpon>frmSysUserLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrder.resx">
+      <DependentUpon>frmTraNotaryOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderClient1.resx">
+      <DependentUpon>frmTraNotaryOrderClient1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderDet.resx">
+      <DependentUpon>frmTraNotaryOrderDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraNotaryOrderProcess.resx">
+      <DependentUpon>frmTraNotaryOrderProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderClient1.resx">
+      <DependentUpon>frmTraPPATOrderClient1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderClient2.resx">
+      <DependentUpon>frmTraPPATOrderClient2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderCompleted.resx">
+      <DependentUpon>frmTraPPATOrderCompleted.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderDet.resx">
+      <DependentUpon>frmTraPPATOrderDet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderFalse.resx">
+      <DependentUpon>frmTraPPATOrderFalse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Form\frmTraPPATOrderProcess.resx">
+      <DependentUpon>frmTraPPATOrderProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptNotaryOrderDibukukan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNotaryOrderDibukukan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptNotaryOrderDibukukan.resx">
+      <DependentUpon>frmRptNotaryOrderDibukukan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptNotaryOrderSah.resx">
+      <DependentUpon>frmRptNotaryOrderSah.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptNotaryOrderSah.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNotaryOrderSah.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptAdminFee.resx">
+      <DependentUpon>frmRptAdminFee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptPPATOrder.resx">
+      <DependentUpon>frmRptPPATOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptAdminFee.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptAdminFee.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmRptNotaryOrderVer2.resx">
+      <DependentUpon>frmRptNotaryOrderVer2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\frmSysReport.resx">
+      <DependentUpon>frmSysReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Library\SharedLib\usTextBox.resx">
+      <DependentUpon>usTextBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptNotaryOrder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNotaryOrder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptPaymentTransaction.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPaymentTransaction.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptPPATOrder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPPATOrder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\Report\rptPrintAkta.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPrintAkta.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="NMS_TemporaryKey.pfx" />
+    <None Include="Presentation Layer\Icon\.svn\all-wcprops" />
+    <None Include="Presentation Layer\Icon\.svn\entries" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Add.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Alt.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Approved.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Button_OK.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Cancel.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Close.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\CPS.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Delete.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Detail.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Edit.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Email.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Get.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\History.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Hold.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Invoice.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Misc.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\New.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Option.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Print.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Refresh.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Reject.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Save.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Sub.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Submit.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Supplier.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Thumbs.db.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Track.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\prop-base\Unapproved.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Add.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Alt.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Approved.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Button_OK.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Cancel.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Close.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\CPS.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Delete.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Detail.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Edit.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Email.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Get.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\History.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Hold.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Invoice.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Misc.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\New.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Option.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Print.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Refresh.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Reject.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Save.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Sub.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Submit.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Supplier.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Thumbs.db.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Track.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\.svn\text-base\Unapproved.ico.svn-base" />
+    <None Include="Presentation Layer\Icon\Thumbs.db" />
+    <None Include="Library\SharedLib\.svn\all-wcprops" />
+    <None Include="Library\SharedLib\.svn\entries" />
+    <None Include="Library\SharedLib\.svn\text-base\usDefCons.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usDefGrid.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usForm.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usNumeric.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usTextBox.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usUserApp.vb.svn-base" />
+    <None Include="Library\SharedLib\.svn\text-base\usXML.vb.svn-base" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentation Layer\Icon\Add.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Alt.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Approved.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Button_OK.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Cancel.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Close.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\CPS.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Delete.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Detail.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Edit.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Email.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Get.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\History.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Hold.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Invoice.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Misc.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\New.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Option.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Print.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Refresh.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Reject.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Save.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Sub.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Submit.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Supplier.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Track.ico" />
+    <EmbeddedResource Include="Presentation Layer\Icon\Unapproved.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Library\SharedLib\.svn\prop-base\" />
+    <Folder Include="Library\SharedLib\.svn\props\" />
+    <Folder Include="Library\SharedLib\.svn\tmp\prop-base\" />
+    <Folder Include="Library\SharedLib\.svn\tmp\props\" />
+    <Folder Include="Library\SharedLib\.svn\tmp\text-base\" />
+    <Folder Include="Presentation Layer\Icon\.svn\props\" />
+    <Folder Include="Presentation Layer\Icon\.svn\tmp\prop-base\" />
+    <Folder Include="Presentation Layer\Icon\.svn\tmp\props\" />
+    <Folder Include="Presentation Layer\Icon\.svn\tmp\text-base\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentation Layer\Icon\List.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
